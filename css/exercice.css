@@ -24,6 +24,22 @@
 }
 
 /*5. exercice-align-content-3 */
+.exercice-align-content-3 .container-small {
+display: flex;
+flex-direction: column;
+flex-direction: column-reverse;
+}
+.exercice-align-content-3 .element-pink { 
+  order: -3;
+}
+
+.exercice-align-content-3 .element-yellow {
+  order: -2;
+}
+
+.exercice-align-content-3 .element-gray {
+  order: -1;
+}
 
 /*6. exercice-flex-grow-1 */
 
